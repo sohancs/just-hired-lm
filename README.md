@@ -4,6 +4,8 @@
 
 A powerful, AI-driven web application that helps job candidates analyze their resumes, compare them with job descriptions, and prepare for interviews with intelligent insights and real-time grounding data.
 
+**App URL** : https://just-hired-lm.vercel.app/
+
 ---
 
 ## 📋 Table of Contents
